@@ -1,0 +1,76 @@
+# Zenith - Two Page Fitness studio website (HTML CSS project)
+
+# Description
+A simple website for users looking for fitness and nutrition guidance. This webpage is compatible with device of all sizes.
+
+# Technologies Used:
+
+. HTML tags and style properties
+. CSS properties
+
+# Users should be able to:
+
+1. Open the "About" link to get the idea about the goals and purpose of website.
+2. Open the "Contact" page to retrieve the contact details of this fitness community.
+3. Open the "Join Our Community" page to either register or log in to the website.
+6. Open the "Learn More" link under "Eat Well" section to get the healthy food recipes.
+7. Open the "Learn More" link under "Train At Home" section to get the workout routines.
+8. Open the "Learn More" link under "Meet Our Panel" section to know about our team.
+
+# SetUp/Installation requirements
+
+. copy this folder to your desktop
+. open the inde.html using any browser such as chrome, mozilla and/or IE.
+
+# Tags Used
+
+<img> : The image tag is used to embed image in the HTML pages.
+
+I have used the below two attributes of the image tag:
+
+src - It specifies the path to the image
+alt - It specifies an alternate text for the image, if the image for some reason cannot be displayed
+
+<a> : The anchor tag is used to define hyperlink to link two pages together.
+
+I have used the below attribute of <a> in the website.
+
+href - It specifies the URL of the page the link goes to
+
+<ul> and <li> : The unordered list and list item tags are used to add items in list manner.
+
+<h1>,<h2>,<h3>,<h4> : header tags are used to add the heading.
+
+<p> : This tag is used to add the paragraph.
+
+<button> : This tag is used to define a clickable button. 
+
+<form> : This tag is used in Log In/ Register page. It enables the collecting of user input.
+
+<input> : This is used as the form element.
+
+<title> : This tag is used to give the title of the webpage. For example, the title of the home page is "Healthcare community"
+
+<link> : This tag is used to add favicon and link css files with html files.
+
+<table> : I have used <table> tag in diet.html and workout.html files to add the details of recipes and workout routines.
+
+target="_blank" : The target="_blank" attribute is used to open the linked document in a new browser window or tab.
+
+<video> : This tag is used to embed video in the HTML document.
+
+
+
+# Future Changes in the project
+
+I am planning to:
+
+Add social media icons on the home page.
+Add more functionalities in the contact page.
+Add more navigation links in the home page.
+Update the About page with the history of this fitness club.
+
+
+
+
+

@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+.workout{
+    background-color:rgb(214, 193, 167);
+    width: 100%;
+    height: 200vh;
+    text-align: center;
+}
+table ,th ,td{
+    border: 3px solid purple;
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 20px;
+   height: 50px;
+   border-collapse: collapse;
+   table-layout: fixed;
+   text-align: center;
+   width:95%;
+
+}
+table th{
+    font-family: "Rock Salt", cursive;
+    letter-spacing: 2px;
+}
